@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onron.Serilog.DestructPolicy.NewtonSoft", "Onron.Serilog.DestructPolicy\Onron.Serilog.DestructPolicy.NewtonSoft.csproj", "{05043C8D-9D83-4E2E-8F82-862E4D9A057D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onron.Serilog.DestructPolicy", "Onron.Serilog.DestructPolicy\Onron.Serilog.DestructPolicy.csproj", "{05043C8D-9D83-4E2E-8F82-862E4D9A057D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
